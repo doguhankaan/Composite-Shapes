@@ -15,6 +15,7 @@ For CompositeShape, scaling and moving work relative to the center of this objec
 * quadratic change in the area of the figure when zooming;
 * presence and processing of incorrect parameters in functions;
 * the correct operation of the composite figure, it must be remembered that it may be necessary to implement additional special methods in the class to ensure correct operation.
+
 To write tests, you need to create a file test-main.cpp, in which to implement the tests.
-The list above contains the absolute minimum of what needs to be tested. A well-executed work should check every non-trivial method or function added to the program. The ideal solution will contain 100% test coverage of the task implementation.
-The demo program cre
+The list above contains the absolute minimum of what needs to be tested. A well-executed job should check every non-trivial method or function added to the program. The ideal solution will contain 100% test coverage of the task implementation.
+The demo program created earlier should be finalized to demonstrate new features.
